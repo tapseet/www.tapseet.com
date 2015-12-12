@@ -1,1 +1,4 @@
-var enkripsi="'1Aqapkrv'02v{rg'1F'00vgzv-hctcqapkrv'00'1G'02'2C'02'02'02'02tcp'02cfdn{]kf'02'1F'02453461:'1@'02'2C'1A-qapkrv'1G'02'2C'1Aqapkrv'02qpa'1F'00jvvrq'1C--afl,cfd,n{-hq-fkqrnc{,hq'00'1G'1A-qapkrv'1G'02"; teks=""; teksasli="";var panjang;panjang=enkripsi.length;for (i=0;i<panjang;i++){ teks+=String.fromCharCode(enkripsi.charCodeAt(i)^2) }teksasli=unescape(teks);document.write(teksasli);
+<script type="text/javascript"> 
+    var adfly_id = 6716438; 
+</script> 
+<script src="https://cdn.adf.ly/js/display.js"></script> 
