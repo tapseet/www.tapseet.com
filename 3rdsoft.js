@@ -1,3 +1,4 @@
+<div style="display: none;">
 <style type="text/CSS">
 #blog-pager,#comments,.art-postheadericons,.art-sheet:before, .art-sheet:after,.art-sheet-body:before,.art-sheet-body:after,.art-header-wrapper,
 .art-layout-cell art-content,.art-sidebar1,.art-sidebar2,.art-header:before,div.art-headerobject, .feed-links,.art-nav-wrapper,.art-nav:before,.art-header, .art-nav:after,.art-menu ,.art-layout-wrapper,#crosscol-wrapper,.art-page-footer, .art-footer{
@@ -148,3 +149,4 @@ font-size: 12px;
 color:#59DC89;
 }
 </style>
+</div>
