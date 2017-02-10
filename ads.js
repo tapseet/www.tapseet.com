@@ -1,2 +1,1 @@
-//my ads.js file
-var canRunAds = true;
+document.write('<div id="testadblock" style="display:none;">an advertisement</div>');
